@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "be.dealio/deals",
+  "title": "Dealio: Belgian deals",
+  "description": "Today's promotions from 50+ Belgian retailers, each discount worked out per item. Read-only.",
+  "version": "1.0.0",
+  "websiteUrl": "https://dealio.be/mcp-server/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://dealio.be/mcp"
+    }
+  ]
+}
