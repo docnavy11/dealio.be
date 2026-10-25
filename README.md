@@ -30,7 +30,7 @@ No account, no key. Streamable HTTP, read-only. Queries in Dutch work best (prod
 
 The address is the same everywhere: `https://dealio.be/mcp`. If your program asks for a login or a key, choose **no authentication**. A server you add yourself is visible only to you; which plans may add custom servers is up to the maker of your program. The steps below are as each maker documents them (October 2026); we have tested Claude Code ourselves.
 
-**Claude** (claude.ai, Claude Desktop and the phone app) — Settings › *Connectors* › *Add* › *Add custom connector*. Name `dealio`, URL `https://dealio.be/mcp`, authentication *No sign in*, then *Add*. Once is enough: the connector is then available in the browser, on your computer and on your phone. In a conversation, switch it on via the **+** under the text box › *Connectors*.
+**Claude** (claude.ai, Claude Desktop and the phone app) — Dealio is in Claude's Connectors Directory as a *Community* connector (*Dealio: Belgian deals*). *Customize* › *Connectors* › *Discover* › search `dealio` › *Connect to Claude*. No sign-in: it connects at once. Once is enough: the connector is then available in the browser, on your computer and on your phone. In a conversation, switch it on via the **+** under the text box › *Connectors*; on the first question Claude may ask for permission (*Allow once* or *Always allow*). Not in the catalogue? Add it yourself: *Customize* › *Connectors* › *Add custom connector*, URL `https://dealio.be/mcp`, authentication *No sign-in*, then *Add* (one custom connector on the free plan).
 
 **Claude Code**
 
@@ -111,7 +111,7 @@ Geen account en geen sleutel nodig. Streamable HTTP, alleen lezen. Vragen in het
 
 Het adres is overal hetzelfde: `https://dealio.be/mcp`. Vraagt je programma naar een aanmelding of sleutel, kies dan **geen aanmelding**. Een server die je zelf toevoegt, ziet alleen jij; de maker van je programma bepaalt welke abonnementen dat mogen. Hieronder de weg per programma, zoals de maker ze beschrijft (oktober 2026); alleen Claude Code hebben we zelf getest.
 
-**Claude** (claude.ai, Claude Desktop en de app op je telefoon) — Instellingen › *Connectors* › *Toevoegen* › *Add custom connector*. Naam `dealio`, adres `https://dealio.be/mcp`, aanmelding *No sign in*, dan *Toevoegen*. Eén keer volstaat: de connector staat daarna in de browser, op je computer en op je telefoon. In een gesprek zet je hem aan via de **+** links onder het tekstvak › *Connectors*.
+**Claude** (claude.ai, Claude Desktop en de app op je telefoon) — Dealio staat in de Connectors Directory van Claude als *Community*-connector (*Dealio: Belgian deals*). *Customize* › *Connectors* › *Discover* › zoek `dealio` › *Connect to Claude*. Geen aanmelding: hij is meteen verbonden. Eén keer volstaat: de connector staat daarna in de browser, op je computer en op je telefoon. In een gesprek zet je hem aan via de **+** links onder het tekstvak › *Connectors*; bij de eerste vraag kan Claude om toestemming vragen (*Allow once* of *Always allow*). Niet in de catalogus? Voeg hem zelf toe: *Customize* › *Connectors* › *Add custom connector*, adres `https://dealio.be/mcp`, aanmelding *No sign-in*, dan *Add* (op het gratis plan één eigen connector).
 
 **Claude Code**
 
