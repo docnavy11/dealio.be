@@ -1,5 +1,7 @@
 # dealio.be
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/docnavy11-dealio-be-p5isby?v=d4cd88475aa5456d3e579e721b41a7ea)](https://m8ven.ai/mcp/docnavy11-dealio-be-p5isby?s=readme)
+
 **[dealio.be](https://dealio.be)** — today's promotions from 65+ Belgian retailers, every discount worked out per item.
 
 *Nederlands: [zie onderaan](#dealiobe-nederlands).*
